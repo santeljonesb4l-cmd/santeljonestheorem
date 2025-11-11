@@ -1,21 +1,18 @@
-$5,200 chip ends Optimus wobble (±0.3%), stops SIDS (4s auto-CPR), saves 34% Mars O₂
+$5,200 chip ends Optimus wobble (+/- 0.3%), stops SIDS (4s auto - CPR), saves 34% Mars O2 
 
-────────────────────────────────────────
-1. GAIT STABILITY
-   • 3…2… rhythm → ±0.3° lock
-   • core_equation.py
+1. GAIT STABILITY 
+   3...2...RHYTHM --> +/- .3* lock
 
-2. SIDS PREVENTION
-   • 4s auto-CPR
-   • 9–10 babies saved nightly
+2.SIDS PREVENTION
+  4s auto-CPR
+  9 - 10 babies saved nightly
 
-3. MARS O₂
-   • +34% stretch
-   • 10k sims, 0 failures
+3. Mars O2
+   +34% stretch
+   10K sims,0failures
 
-────────────────────────────────────────
 Signed:
 Santel Jones
 Theoremus Adric Tripp
 Hamilton, Ohio
-November 11, 2025
+November 11,2025
